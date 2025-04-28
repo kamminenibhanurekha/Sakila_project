@@ -1,0 +1,342 @@
+[
+    {
+        "chunk_index": 0,
+        "analysis": "# File: MockTests.java package com.sparta.engineering72.sakilaproject; import com.sparta.engineering72.sakilaproject.controller.ActorController; import com.sparta.engineering72.sakilaproject.controller.CategoryController; import com.sparta.engineering72.sakilaproject.controller.CategoryController; import com.sparta.engineering72.sakilaproject.controller.CustomerController; import com.sparta.engineering72.sakilaproject.controller.CustomerController; import com.sparta.engineering72.sakilaproject.respositories.*; import com.sparta.engineering72.sakilaproject.services.*; import org.junit.Before; import org.junit.Test; import org.junit.Runner.RunWith; import org.mockito.InjectMocks; import org.mockito.MockitoAnnotations; import org.mockito.Spy; import org.mockito.junit.MockitoJUnitRunner; import java.math.BigDecimal; import java.util.Date; import org.springframework.ui.ModelMap; import static org.mockito.java.sql.Timestamp; import java.util.Date; import org.springframework.ui.ModelMap; import static org.mockito.java.verify; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = 0; i = "
+    },
+    {
+        "chunk_index": 1,
+        "analysis": "mport static org.mockito.Mockito.when; @RunWith(MockitoJUnitRunner.Silent.class) public class MockTests  @Spy ActorRepository actorRepository; @Spy FilmRepository filmRepository; @Spy CustomerRepository customerRepository; @Spy CategoryRepository categoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryRepository inventoryRepository; @Spy InventoryService inventoryService inventoryService; @Spy @InjectMocks RentalService rentalService; @InjectMocks ActorController actorController; @InjectMocks FilmController filmController; @InjectMocks CategoryController categoryController; @Before() public void in mport static org.mockito.Mockito.when"
+    },
+    {
+        "chunk_index": 2,
+        "analysis": "Actor actor2 = new Actor(); actor2.setLastName(\"Gomez\"); actor2.setActorId(2); when(actorRepository.getActorByActorId(2))); then Return((actor2)); Actor aa = actorController.findActorByLastName()  Actor actor2 = new Actor(); actor2.setLastName(\"Gomez\"); actor2.setActorId(2); when(actorRepository.getActorByActorId(2))); then Return((actor2)); Actor aa = actorController.findActorByLastName()  Actor actor2 = new Actor(); actor2.setLastName(\"Gomez\"); actor2.setActorId(2); when(actorRepository.getActorByActorId(2))); then Return((actor2)); Actor aa = actorController.findActorByLastName()  Actor actor2 = new Actor(); actor2.setLastName(\"Gomez\"); actor2.setActorId(2); when(actorRepository.getActorByActorId(2))); then Return((actor2)); Actor aa = actorController.findActorByLastName()  Actor actor2 = new Actor(); actor2.setLastName(\"Gomez\"); actor2.setActorId(2); when(actorRepository.getActorByActorId(2))); then Return((actor2)); Actor aa = actorController.findActorByLastName()  Actor actor2 = new Actor(); actor2.setLastName(\"Gomez\"); actor2.setActorId(2); when(actorRepository.getActorByActorId(2)); then Return((actor2)); Actor aa = actorController.findActorByLastName()  Actor actor2 = new Actor(); actor2.setLastName(\""
+    },
+    {
+        "chunk_index": 3,
+        "analysis": "                                                                                                                                                                                                                                                               "
+    },
+    {
+        "chunk_index": 4,
+        "analysis": "Film th = new Film(); film.setRating(\"18\"); film.setFilmId(3); when(filmRepository.getFilmByFilmId(3)).then Return(film)); Film th = filmController.findFilmId(2); assertEquals(1, theFilm.getFilmId());  @Test public void testFilmByRating()  Film film = new Film(); film.setRating(\"18\"); film.setFilmId(3); when(filmRepository.getFilmByFilmId(3)).then Return(film)); Film theFilm = filmController.findFilmId(2); assertEquals(1, theFilm.getFilmId());  @Test public void testFilmByRating()  Film film = new Film(); film.setRating(\"18\"); film.setFilmId(3); when(filmRepository.getFilmByFilmId(3)).then Return(film)); Film theFilm = filmController.findFilmId(2); assertEquals(1, theFilm.getFilmId());  @Test public void testFilmByRating()   Film film = new Film(); film.setRating(\"18\"); film.setFilmId(3); when(filmRepository.getFilmByFilmId(3)).then Return(film)); Film theFilm = filmController.findFilmId(2); assertEquals(1, theFilm.getFilmId());  @Test public void testFilmByRating()   Film film = new Film(); film.setRating(\"18\"); film.setFilmId(3); when(filmRepository.getFilmByFilmId(3)); film theFilm = filmController.findFilmId(2); assertEquals(1, the"
+    },
+    {
+        "chunk_index": 5,
+        "analysis": "Film theFilm = f; film.setDescription(\"This is a long description\"); film.setFilmId(5); when(filmRepository.getFilmByFilmId(5)); then Return(film)); Film theFilm = f; film.setDescription(\"This is a long description\"); film.setFilmId(5); when(filmRepository.getFilmByFilmId(5)); then Return(film)); Film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFilm = f; film theFil"
+    },
+    {
+        "chunk_index": 6,
+        "analysis": " @Test public void testFilms()  Timestamp timestamp = new Timestamp(System.currentTimeMillis()); Film film = new Film(); film.setLastUpdate(timestamp); film.setTitle(\"Goodfellas\"); film.setFilmId(5); film.setSpecialFeatures(\"Special\"); film.setReplacementCost(BigDecimal.valueOf(0.999)); film.setRentalRate(10); film.setReleaseYear(2000); when(filmRepository.getFilmByFilmId(5)).then Return(film)); Film theFilm = film; assertEquals( timestamp.toString() , theFilm.getLastUpdate().toString()); assertEquals( BigDecimal.valueOf(0.999)); film.getReplacementCost(10); film.setReleaseYear(2000); when(filmRepository.getFilmId(5)).then Return(film)); Film theFilm = film; assertEquals( timestamp.toString() , theFilm.getLastUpdate().toString()); assertEquals( BigDecimal.valueOf(0.999)); film.getReplacementCost(10); film.setReleaseYear(2000); when(filmRepository.getFilmByFilmId(5)).then Return(film)); Film theFilm = film; assertEquals( timestamp.toString() , theFilm.getRentalDuration() , theFilm.getReplacementCost()); assertEquals( BigDecimal.valueOf(0.888), theFilm.getRentalRate()); assertEquals( BigDecimal.valueOf(0.888), theFilm.getRentalRate()); assertEquals( BigDecimal.valueOf(0.888), theFilm.getRent"
+    },
+    {
+        "chunk_index": 7,
+        "analysis": "Customer Customer = new Customer(); customer.setCustomerId(10); when(customerRepository.getCustomerId(10)); then Return(customer)); secondCustomer = customer;"
+    },
+    {
+        "chunk_index": 8,
+        "analysis": " Timestamp timestamp = new Timestamp(System.currentTimeMillis()); Staff staff = new Staff();"
+    },
+    {
+        "chunk_index": 9,
+        "analysis": " @Test public void testFilmController()  ModelMap = new ModelMap(); FilmController = new FilmController (filmService, inventoryService, r);"
+    },
+    {
+        "chunk_index": 10,
+        "analysis": "entalService, customerService); String result = filmController.getFilmDetails(modelMap , 10); assertEquals( result , \"films/filmDetails\");  @Test public void testFilmController2()  ModelMap modelMap = new ModelMap(); FilmController filmController = new FilmController(filmService, inventoryService, rentalService, customerService); String result = filmController.getFilms(modelMap , \"Filter\"); assertEquals( result , \"/films/films\");  @Test public void testCategory()  ModelMap modelMap = new ModelMap(); CategoryController categoryController = new CategoryController(filmService, categoryController); String result = categoryController.getCategoryDetails(modelMap , 10); assertEquals( result , \"categories/categoryDetails\");  @Test public void testCategory2()  ModelMap modelMap = new ModelMap(); CategoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryController categoryControl"
+    },
+    {
+        "chunk_index": 11,
+        "analysis": "Custom  ModelMap = new ModelMap(); Custom "
+    },
+    {
+        "chunk_index": 12,
+        "analysis": "erController customerController = new CustomerController(customerService, rentalService, inventoryService, filmService); String result = customerController.showUsersRentalHistory(modelMap , 10); assertEquals( result, \"owner/customerDetails\");  @Test public void testInventory()  Date date = new Date(System.currentTimeMillis()); Timestamp timestamp = new Timestamp(date.getTime()); Timestamp timestamp1 = new Timestamp(timestamp.getTime()); film film = new Film(); film.setReleaseYear(2000); film.setLastUpdate(timestamp); Inventory inventory = new Inventory(); inventory.setFilmId(film.getFilmId()); inventory.setInventoryId(10); inventory.setLastUpdate(timestamp1); when(inventoryRepository.getInventoriesByInventoryId(10)).then Return(inventory)); Inventory secondInventory = inventory; assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId()); assertEquals( 10 , secondInventory.getInventoryId());"
+    },
+    {
+        "chunk_index": 13,
+        "analysis": "s(timestamp.toString() , secondInventory.getLastUpdate().toString()); assertEquals(timestamp.toString() , secondInventory.getLastUpdate().toString()); System.out.println(date.toString());  @Test public void testRental()  Timestamp timestamp = new Timestamp(System.currentTimeMillis()); Inventory inventory = new Inventory(); Customer customer = new Customer(); customer.setFirstName(\"James\"); customer.setLastName(\"Peak\"); staff = new Staff(); staff.setFirstName(\"Paul\"); staff.setLastName(\"Watson\"); Rental rental = new Rental(); rental.setRentalId(10); rental.setReturnDate(timestamp); rental.setInventoryId(inventory.getInventoryId()); rental.setCustomerId(customer.getCustomerId()); rental.setLastUpdate(timestamp); rental.setStaffId(staff.getStaffId()); when(rentalRepository.getRenta.com) "
+    },
+    {
+        "chunk_index": 14,
+        "analysis": "lByRentalId(10)).thenReturn((rental)); rental secondRental = rental; assertEquals( 10 , secondRental.getRentalId()); assertEquals( inventory.getInventoryId() , secondRental.getInventoryId()); assertEquals( customer.getCustomerId() , secondRental.getCustomerId()); assertEquals(staff.getStaffId() , secondRental.getStaffId()); assertEquals(staff.getStaffId() , secondRental.getStaffId()); assertEquals(staff.getStaffId() , secondRental.getStaffId()); assertEquals(staff.getStaffId() , secondRental.getStaffId()); assertEquals(staff.getStaffId() , secondRental.getStaffId()); assertEquals(staff.getStaffId() , secondRental.getStaffId()); assertEquals(timestamp.toString() , secondRental.getStaffId()); assertEquals(timestamp.toString() , secondRental.getStaffId()); assertEquals(timestamp.toString() , secondRental.getStaffId()); assertEquals(timestamp.toString() , secondRental.getStaffId()); assertEquals(timestamp.toString() , secondRental.getRentalDate() , secondRental.getRentalDate() , secondRental.getRentalDate() , secondRental.getRentalDate() , secondRental.getRentalDate() , secondRental.getRentalDate() , secondRental.getRentalDate() ,"
+    },
+    {
+        "chunk_index": 15,
+        "analysis": " # File: SakilaProjectApplicationTests.java package com.sparta.engineering72.sakilaproject; import com.sparta.engineering72.sakilaproject.controller.MainController; import org.junit.Test; import static org.junit.jupiter.api.Assertions.assertEquals; public class SakilaProjectApplicationTests  @Test public void MainController1()  MainController mainController = new MainController(); String result = mainController.home(); assertEquals(result, \"home\");  @Test public void MainController2()  MainController mainController = new MainController(); String result = mainController.account(); assertEquals(result, \"account\");  @Test public void MainController3()  MainController mainController = new MainController(); String result = mainController.login(); assertEquals(result, \"account\");  @Test public void MainController3()  MainController mainController = new MainController(); String result = mainController.login(); assertEquals(result, \"account\");  @Test public void MainController3()  MainController mainController = new MainController(); String result = mainController.login(); assertEquals(result, \"account\"); assertEquals(result, \"account\"); assertEquals(result, \"account\"); assertEquals(result, \"account\"); assertEquals(result, \"account\"); assertEquals(result, \"account\"); assertEquals(result, \"account\"); assertEquals(result, \"account\"); assertEquals(result, \"account"
+    },
+    {
+        "chunk_index": 16,
+        "analysis": "# File: CustomerService.java package com.sparta.engineering72.sakilaproject.services; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.repositories.CustomerRepository; import org.springframework.stereotype.Service; import java.util.List; @Service public class CustomerService  private final CustomerRepository customerRepository; public CustomerService(CustomerRepository customerRepository) this.customerRepository = customerRepository;  public ListCustomer> getAllCustomers()"
+    },
+    {
+        "chunk_index": 17,
+        "analysis": "# File: CategoryService.java package com.sparta.engineerin"
+    },
+    {
+        "chunk_index": 18,
+        "analysis": "g72.sakilaproject.services; import com.sparta.engineering72.sakilaproject.entities.Category; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.respositories.FilmRepository; import org.springframework.stereotype.Service; import org.springframework.transaction"
+    },
+    {
+        "chunk_index": 19,
+        "analysis": "                                                                                                                                                                                                                                                               "
+    },
+    {
+        "chunk_index": 20,
+        "analysis": " public void save(Film film)  filmRepository.save(film);  public void deleteFilmById(int id)  filmRepository.deleteById(id);   # File: ActorService.java package com.sparta.engineering72.sakilaproject.services; import com.sparta.engineering72.sakilaproject.entities.Actor; import com.sparta.engineering72.sakilaproject.respositories.ActorRepository; import org.springframework.stereotype.Service; import java.util.List; @Service public class ActorService  private final ActorRepository; public ActorService(ActorRepository) this.actorRepository = actorRepository;  public ListActor> getAllActors() return (ListActor>)actorRepository.findAll();  public ListActor> getActorsByFullName(String firstName, String lastName) return actorRepository.findActors();  public ListActor> getActorsByFullName(String firstName, String lastName) return actorRepository.findActors();  public ListActor> getActorsByFullName(String firstName, String lastName) return actorRepository.findActors();  public ListActor> getActorsByFullName(String firstName, String lastName) return actorRepository.findActors();  public ListActor> getActorsByFullName(String firstName, String lastName) return actorRepository.findActors();  public ListActor> getActorsByFullName(String firstName, String lastName) return actorRepository.findActors();  public ListActor> getActorsByFullName(String firstName, String lastName) return actor"
+    },
+    {
+        "chunk_index": 21,
+        "analysis": " Public  Public  Private final StaffRepository  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public  Public"
+    },
+    {
+        "chunk_index": 22,
+        "analysis": " LocalDateTime rentalD "
+    },
+    {
+        "chunk_index": 23,
+        "analysis": "ate = LocalDateTime.now(); Rental = new Rental(); rental.setInventoryId(inventoryId); rental.setCustomerId(customerId); rental.setRentalDate(Timestamp.valueOf(rentalDate)); rental.setLastUpdate(Timestamp.valueOf(rentalDate)); rental.setReturnDate(returnDate); rental.setStaffId(1); rental.setStaffId(1);   # File: InventoryService.java package com.sparta.engineering72.sakilaproject.services; import com.sparta.engineering72.sakilaproject.entities.Inventory; import com.sparta.engineering72.sakilaproject.respositories.InventoryRepository; import org.springframework.stereotype.Service; import org.springframework.transaction.annotation.Transactional; import java.util.List; @Service public class InventoryService  private final InventoryRepository; public InventoryService(InventoryRepository inventoryRepository) this.inventoryRepository = i"
+    },
+    {
+        "chunk_index": 24,
+        "analysis": " public ListInventory> getAllInventory() return inventoryRepository.findAll();  public Inventory getInventoriesById(Integer id) return inventoryRepository.getInventoriesById(id);  @Transactional public void deleteInventoryItemById(Integer id) inventoryRepository.deleteInventoryId(id);  public Integer getInventoryCount() return inventoryRepository.getInventoryCount();   # File: Category.java package com.sparta.engineering72.sakilaproject.entities; import javax.persistence.*; import java.util.Collection; import java.util.Objects; @Entity public class Category  private int categoryId; private String name; private Timestamp lastUpdate; @Id @Column(name = \"category_id\") public int getCategoryId()  return categoryId;  public void setCategoryId(int categoryId)  this.categoryId = cat"
+    },
+    {
+        "chunk_index": 25,
+        "analysis": "# File: FilmText.java package com.sparta.engineering72.sakilaproject.entities; import javax.persistence.*; im"
+    },
+    {
+        "chunk_index": 26,
+        "analysis": "                                                                                                                                                                                                                                                               "
+    },
+    {
+        "chunk_index": 27,
+        "analysis": "boolean = (Object o)  if (this == o) retu"
+    },
+    {
+        "chunk_index": 28,
+        "analysis": "#FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId =  #FilmId ="
+    },
+    {
+        "chunk_index": 29,
+        "analysis": " private int actorId; private String firstName; private String lastName; private Timestamp lastUpdate; @Id @Column(name = \"act\")"
+    },
+    {
+        "chunk_index": 30,
+        "analysis": "boolean = (Object o)  if (this == o) return true; if (o == null || getClass() != o.getClass()) return false; Actor = (Actor) o; return actorId == actor.actorId && & boolean = (Object o)  if (this == o) return true; if (o == null || getClass() != o.getClass()) return false; Actor = (Actor) o; return actorId == actor.actorId && boolean = (Object o)  if (actor == o) return true; if (o == null || getClass() != o.getClass()) return false; Actor = (Actor) o; return actorId == actor.actorId && boolean = (Object o)  if (actor == o) return true; if (o == null || getClass() != o.getClass()) return false; Actor = (Actor) o; return actorId == actor.actorId && boolean = (Object o)  if (actor == o) return true; if (o == null || getClass() != o.getClass()) return false; Actor = (Actor) o; return actorId == actor.actorId && boolean = (Object o)  if (actor == o) return true; if (o == null || getClass() != o.getClass()) return false; Actor = (Actor) o; return actorId == actor.actorId && boolean = (Object o)  if (actor == o.actorId && boolean = (Object o)  if (actor == o.actorId"
+    },
+    {
+        "chunk_index": 31,
+        "analysis": " # File: Order.java package com.sparta.engineering72.sakilaproject.entities; public class Order  private Customer customer; private Film film; private Rental rental; public Order(Customer customer, Film film, Rental rental)  this.customer = customer; this.film = film; this.rental = rental;  public Customer getCustomer()  return customer;  public void setCustomer(Customer customer)  this.customer = customer;  public Film getFilm()  return film;  public void setFilm(Film film)  this.film = film;  public Rental getRental()  return rental;  "
+    },
+    {
+        "chunk_index": 32,
+        "analysis": "setLastUpda  return lastUpdate;   # File: FilmCategory.java package com.sparta.engineering72.sakilaproject.entities; import javax.persistence.*; import java.sql.Timestamp; import java.util.Objects; @Entity @Table(name = \"film_category\", schema = \"sakila\", catalog = \"\") @IdClass(FilmCategoryPK.class) public class FilmCategory  private int filmId; private int categoryId; private Timestamp lastUpdate; @Id @Column(name = \"film_id\") public int getFilmId()  return filmId;  public void setFilmId(Integer filmId)  this.filmId = filmId;  @Id @Column(name = \"category_id\") public int getFilmId()  return categoryId;  public void setCategoryId(Integer categoryId)  this.categoryId = categoryId;  @Basic @Column(name = \"last_update\") public Timestamp getLastUpdate()  return lastUpdate;  public void setLastUpda  return lastUpdate;  public void setLastUpda  return lastUpdate;  public void setLastUpda  return lastUpdate;  public void setLastUpda  return lastUpdate;  public void setLastUpda  return lastUpdate;  public void setLastUpda  return lastUpdate;  public void setLastUpda  return lastUpdate;  public void setLastUpda  return lastUpdate;  public void setLastUpda  return lastUpdate;  public void setLastUpda  return lastUpdate;  public void setLastUpda"
+    },
+    {
+        "chunk_index": 33,
+        "analysis": " private int staffId; private String firstName; private String lastName; private byte[] picture; private PPT"
+    },
+    {
+        "chunk_index": 34,
+        "analysis": "                                                                                                                                                                                                                                                               "
+    },
+    {
+        "chunk_index": 35,
+        "analysis": "boolean equals(Object o)  if (this == o) return true; if (o == null || getClass() != o.getClass()) return false;  @Override public boolean equals(Object o)  if (this == o) return true; if (o == null || getClass() != o.getClass()) return false;  @Override public boolean equals(Object o)  if (this == o) return true; if (o == null || getClass() != o.getClass()) return false;  @Override public boolean equals(Object o)  if (this == o) return true; if (o == null || getClass() != o.getClass()) return false;  @Override public boolean equals(Object o)  if (this == o) return true; if (o == null || getClass() != o.getClass()) return false;  @Override public boolean equals(Object o)  if (object o == o) return true; if (o == null || getClass() != o.getClass()) return false;  @Override public boolean equals(Object o)  if (object o == o) return true; if (o == null || getClass() != o.getClass()) return false;  @Override public boolean equals(Object o)  if (object o == o) return true; if (o == null || getClass() != o.getClass()) return false;  @Override public boolean equals(Object o)  if (object o == o) return true; if (o == null || getClass() "
+    },
+    {
+        "chunk_index": 36,
+        "analysis": "#file: FilmActor.java package com.sparta.engineering72.sakilaproject.entities; import javax.persistence.*; import java.sql.Timestamp; import java.util.Objects; @Entity @Table(name = \"film_actor\", schema = \"sakila\")"
+    },
+    {
+        "chunk_index": 37,
+        "analysis": "boolean = (Object o)  if (this == o) return true; if (o == null || getClass() != o.getClass()) return false; FilmActor = (FilmActor) o; return actorId == filmActor.actorId && filmId == o"
+    },
+    {
+        "chunk_index": 38,
+        "analysis": " # File: Customer.java package com.sparta.engineering72.sakilaproject.entities; import javax.persistence.Basic; import javax.persistence.Column; import javax.persistence.Entity; import javax.persistence.Entity; import javax.persistence.Entity; import javax.persistence.Entity; import javax.persistence.Id; import java.sql.Timestamp; import java.util.Objects;  int customerId = 0; public = 0;  public void setCustomerId(int customerId)  this.customerId = customerId;  @Basic @Column(name = \"first_name\") public = 0"
+    },
+    {
+        "chunk_index": 39,
+        "analysis": " p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0;  p = 0"
+    },
+    {
+        "chunk_index": 40,
+        "analysis": "# File: FilmActorPK.java package com.sparta.engineering72.sakilaproject.entities; import javax.persistence.Column; import javax.persi"
+    },
+    {
+        "chunk_index": 41,
+        "analysis": "stence.Id; import java.io.Serializable; import java.util.Objects; public class FilmActorPK implements Serializable  private int actorId; private int filmId; @Column(name = \"actor_id\") @Id public Integer getActorId()  return actorId;  public void setActorId(int actorId)  this.actorId = actorId;  @Column(name = \"film_id\") @Id public int getFilmId()  return filmId;  public void setFilmId(int filmId)  this.filmId = filmId;  @Override public boolean = (Object o)  if (this == o) return true; if (o == null || getClass() != o.getClass()) return false; FilmActorPK that = (FilmActorPK) o; return actorId == that.actorId && filmId == that.filmId;  @Override public int hashCode()  return Objects.hash(actorId, filmId);   # File: Film.java package com.sparta.engineering72.sakilaproject.entities; import org; "
+    },
+    {
+        "chunk_index": 42,
+        "analysis": "                                                                                                                                                                                                                                                               "
+    },
+    {
+        "chunk_index": 43,
+        "analysis": "#Facebook =                                                                                                                                                                                                                                                             "
+    },
+    {
+        "chunk_index": 44,
+        "analysis": " if (this == o) return true; if (o == null ||)"
+    },
+    {
+        "chunk_index": 45,
+        "analysis": " #                                                                                                                                                                                                                                                              "
+    },
+    {
+        "chunk_index": 46,
+        "analysis": "                                                                                                                                                                                                                                                               "
+    },
+    {
+        "chunk_index": 47,
+        "analysis": "boolean = (Object o)  if (this == o) return true; if (o == null || getClass() != o.getClass()) return false; Rental rental = (Object o) "
+    },
+    {
+        "chunk_index": 48,
+        "analysis": " #file: MainController.java package com.sparta.engineering72.sakilaproject.controller; import org.springframework.web.bind.annotation.RequestMapping; import org.springframework.stereotype.Controller; @RequestMapp public class MainController  @RequestMapping(value=\"/\") public String home()  return \"home\";  @RequestMapping(value=\"/login\") public String login()  return \"login\"; "
+    },
+    {
+        "chunk_index": 49,
+        "analysis": " #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #"
+    },
+    {
+        "chunk_index": 50,
+        "analysis": "# File: ActorController.java package com.sparta.engineering72.sakilaproject.controller; import com.sparta.engineering72.sakilaproject.entities.Actor; import com.sparta.engineering72.sakilaproject.services.ActorService; import com.sparta.engineering72.sakilaproject.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta.engineering72.sakila project.services.ActorService; import com.sparta"
+    },
+    {
+        "chunk_index": 51,
+        "analysis": "if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFilter.equa)  if (firstNameFil"
+    },
+    {
+        "chunk_index": 52,
+        "analysis": "ls(\"ALL ACTORS\") && lastNameFilter.equals(\"ALL ACTORS\"))  actors = actorService.getAllActors();  else if (lastNameFilter.equals(\"ALL ACTORS\"))  actors = actorService.getActorsByFirstName(firstNameFilter);  else if (firstNameFilter.equals(\"ALL ACTORS\"))  actors = actorService.getActorsByLastName(lastNameFilter);  else  actors = actorService.getActorsByFullName(firstNameFilter, lastNameFilter);  modelMap.addAttribute(\"actors\", actors); modelMap.addAttribute(\"allActors\", actorService.getAllActors()); return \"actors/actors\";  @GetMapping(\"/actors/details\") public String getActorFilmDetails(ModelMap, modelMap, @RequestParam(value = \"id\")); integer id)  modelMap.addAttribute(\"name\", actorService.getActorFullNameFromID(id)); modelMap.addAttribute(\"films\", filmService.getFilmsByActor(id)); return \"actors/actors\";  @GetMapping(\"/actors/details\") public String getActorFilmDetails(ModelMap, modelMap, @RequestParam(value = \"id\")); return \"actors/actors\";  @GetMapping(\"/actors/details\") public String getActorFilmDetails(ModelMap, modelMap, @RequestParam(value = \"id\")); return \"actors/actors\";  @GetMapping(\"/actors/details\") public String getActorFilmDetails(ModelMap, modelMap, @Request"
+    },
+    {
+        "chunk_index": 53,
+        "analysis": "com.sparta.engineering72.sakilaproject.controller; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Inventory; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.RentalService; import org.springframework.beans.factory.annotation.Autowired; import org.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri.spri."
+    },
+    {
+        "chunk_index": 54,
+        "analysis": "ngframework.stereotype.Controller; import org.springframework.transaction.annotation.transactional; import org.springframework.ui.ModelMap; import org.springframework.web.bind.annotation.*; import javax.persistence.criteria.CriteriaBuilder; import java.security.Principal; import java.sql.Timestamp; import java.util.ArrayList; import java.util.ArrayList; import java.util.ArrayList; import java.util.ArrayList; import java.util.ArrayList; import java.util.List; public class FilmController  private FilmService filmService; private InventoryService inventoryService; private RentalService rentalService; private Customer Service customer Service; @Autowired public FilmController (FilmService filmService, InventoryService inventoryService, RentalServic)"
+    },
+    {
+        "chunk_index": 55,
+        "analysis": "/films/films)"
+    },
+    {
+        "chunk_index": 56,
+        "analysis": "uestParam(value = \"id\")  Integer id = integer id  int filmService.getFilmByID(id); boolean available = filmService.getAvailableFilms().contains(film); modelMap.addAttribute(\"available\", available); modelMap.addAttribute(\"details\", film); return \"films/filmDetails\";  @GetMapping(\"/rent/filmid\") public String rentFilm(ModelMap, Principal principal, @PathVariable(\"filmid\") int filmid) String name = principal.getName(); Customer customer = customerService.getCustomerByEmail(name); ListInventory> inventoryList = inventoryService.getAllInventory(); for (Inventory inventory : inventoryList)  if (inventory.getFilmId() == filmid)  LocalDateTime return Date = LocalDateTime.now().plusDays(filmService.getFilmByID(inventory.getFilmId()), getRentalDuration()); return \"Inventory ItemById(inventory.getFilmId()); inventoryService.deleteInventoryItemById(inventory.getFilmId()); inventoryService.deleteInventoryItemById(inventory.getFilmId()); inventoryService.deleteInventoryItemById(inventory.getFilmId()); inventoryService.deleteInventoryItemById(inventory.getFilmId()); inventoryService.deleteInventoryItemById(inventory.getFilmId()); inventoryService.deleteInventoryItemById(inventory.getFilmId()); inventoryService.deleteInventoryItemById(inventory.getFilmI"
+    },
+    {
+        "chunk_index": 57,
+        "analysis": " modelMap.addAttribute(\"rent\",\"Rented\"); return \"redirect:/films\";  @GetMapping(\"/owner/manage-films\") public String getFilmDetails(ModelMap, modelMap, @RequestParam(value = \"title\", defaultValue = \"ALL FILMS\"))  ListFilm> films; if (filter.equals(\"ALL FILMS\"))  films = filmService.getAllFilms();  else  films = filmService.getFilmsByTitle(filter);  ListFilm> allFilms = filmService.getAllFilms(); HashMapInteger, Integer> filmCount = new HashMap>(); for (Film film : allFilms)  film Count.put(film.getFilmId(), filmService.getAvailableFilmCount(film.getFilmId()));  modelMap.addAttribute(\"films\", films); modelMap.addAttribute(\"films\", films); modelMap.addAttribute(\"films\", films); modelMap.addAttribute(\"films\", films);"
+    },
+    {
+        "chunk_index": 58,
+        "analysis": "com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.saki"
+    },
+    {
+        "chunk_index": 59,
+        "analysis": "sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.FilmService; import com.sparta.engineering72.sakilaproject.services.InventoryService; import org.springframework.beans.factory.annotation.Autowired; import org.springframework.ui.Model; import org.springframework.ui.ModelMap; import org.springframework.web.bind.annotation.*; import javax.servlet.http.HttpServletRequest; import java.util.ArrayList; import java.util.List; import javax.servlet.http.HttpServletRequest; import java.time.Instant; import java.time.LocalDate; @Autowired public class CustomerController  private CustomerService customerService; private RentalService rentalService; private InventoryService inventoryService; private FilmService filmService; @Autowired public CustomerControlle"
+    },
+    {
+        "chunk_index": 60,
+        "analysis": "r(CustomerService customerService, RentalService rentalService, InventoryService inventoryService, FilmService filmService)  this.customerService = customerService; this.rentalService = rentalService; this.inventoryService = inventoryService; this.filmService = filmService;  @GetMapping(\"/customer\") public String currentUser(ModelMap modelMap, HttpServletRequest request)  String email = request.getRemoteUser(); Customer customer = customerService.getCustomerByEmail(email); ListOrder> ordersList = new ArrayList> order; if (customer != null)  ListRental> customersRentals = rentalService.getRentalsByCustomer(customer.getCustomerId()); for (Rental : customersRentals) int inventoryId = rental.getInventoryId(); Inventory inventory = inventoryService.getInventoriesById(inventoryId); film film = filmService.getFilmByID(inventory.getFilmId(film))"
+    },
+    {
+        "chunk_index": 61,
+        "analysis": ")); Order Order = new Order(customer, film, rental); ordersList.add(order);   modelMap.addAttribute(\"orders\", ordersList); modelMap.addAttribute(\"customer\", customer); return \"customer/customer\";  @GetMapping(\"/owner/customers\") public String getCustomers(ModelMap, modelMap, @RequestParam(value = \"firstName\", defaultValue = \"ALL CUSTOMERS\"))  firstNameFilter, @RequestParam(value = \"lastName\", defaultValue = \"ALL CUSTOMERS\")  listCustomer> customers; if (firstNameFilter.equals(\"ALL CUSTOMERS\") && lastNameFilter.equals(\"ALL CUSTOMERS\"))  customers = customerService.getAllCustomers();  else if (lastNameFilter.equals(\"ALL CUSTOMERS\"))  customers = customerService.getCustomers ByFirstName(firstNameFilter);  else if (firstNameFilter.equals(\"ALL CUSTOMERS\"))  customers = customerService.getCustomers ByFirstName(firstNameFilter);  else if (firstNameFilter.equals(\"ALL CUSTOMERS\"))  customers = customerService.getCustomers ByFirstName(firstNameFilter);  else if (firstNameFilter.equals(\"ALL CUSTOMERS\")  customers = customerService.getCustomers ByFirstName(firstNameFilter);  else if (firstNameFilter.equals(\"ALL CUSTOMERS\")  customers = customerService.getCustomers ByFirstName(firstNameFilter);  else if (firstNameFilter.equals(\"ALL CUSTOMERS\")  customers = customerService.getCustomers ByFirstName(firstNameFilter);  else if (firstNameFilter.equals(\"ALL CUSTOMERS\")  customers = customerService.get"
+    },
+    {
+        "chunk_index": 62,
+        "analysis": ")  customers = customerService.getCustomersByLastName(lastNameFilter);  else  customers = customerService.getCustomersByFullName(firstNameFilter, lastNameFilter);  modelMap.addAttribute(\"customers\", customers); modelMap.addAttribute(\"allCustomers\", customerService.getAllCustomers()); return \"owner/customers\";  @GetMapping(\"/owner/view/customers/id\") public String showUsersRentalHistory(ModelMap, modelMap, @PathVariable(name = \"id\") int id)  Customer customer = customerService.getCustomerByID(id); ListOrder> ordersList = new ArrayList>(); if (customer != null)  ListRental> customersRentals = rentalService.getRentalsByCustomer(id); for (Rental : customersRentals)  int inventoryId = rental.getInventoryId(); Inventory inventory = inventoryService.getInventoriesById(inventor)"
+    },
+    {
+        "chunk_index": 63,
+        "analysis": "#file: CategoryController.java package com.sparta.engineering72.sakilaproject.controller; import com.sparta.engineering72.sakilaproject.entities.Category; import com.sparta.engineering72.sakilaproject.entities.Category; import org.springframework.beans.factory.annotation.Autowired; import org.springframework.ui.ModelMap; import org.springframework.web.bind.annotation.GetMapping; import org.springframework.web.bind.annotation.RequestParam;  #file: categoryController.java package com.sparta.engineering72.sakilaproject.controller; import com.sparta.engineering72.sakilaproject.entities.Category; import com.sparta.engineering72.sakilaproject.entities.Category; import org.springframework.ui.ModelMap; import org.springframework.web.bind.annotation.GetMapping; import org.springframework.web.bind.annotation.RequestParam;  #file: categoryController.java package com.sparta.engineering72.sakilaproject.controller; import com.sparta.engineering72.sakilaproject.entities.Category; import com.sparta.engineering72.sakilaproject.services.*; import org.springframework.ui.ModelMap; import org.springframework.web.bind.annotation.GetMapping; import org.springframework.web.bind.annotation.RequestParam;  public class CategoryController  private FilmService; filmService; categoryService; categoryService; categoryService; categoryService"
+    },
+    {
+        "chunk_index": 64,
+        "analysis": "# File: SuccessHandler.java com.sparta.engineering72.sakilaproject.securingweb; imp"
+    },
+    {
+        "chunk_index": 65,
+        "analysis": "org.springframework.security.core.Authority; import org.springframework.security.core.GrantedAuthority; import org.springframework.security.web.DefaultRedirectStrategy; import org.springframework.security.web.RedirectStrategy; import javax.servlet.ServletException; import javax.servlet.http.HttpServletRequest; import javax.servlet.http.HttpServletResponse; import java.util.Collection; @Component public class SuccessHandler implements AuthenticationSuccessHandler  private RedirectStrategy redirectStrategy = new DefaultRedirectStrategy(); @Override public void on AuthenticationSuccess(HttpServletRequest request, HttpServletResponse response, Authentication authentication) throws IOException, ServletException  Collection? extends GrantedAuthority> authorities = authentication.getAuthorities();"
+    },
+    {
+        "chunk_index": 66,
+        "analysis": "# File: WebSecurityConfig.java package com.sparta.engineering72.sakilaproject.securingweb; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import com.sparta.engineering72.sakilaproject.services.CustomerService; import "
+    },
+    {
+        "chunk_index": 67,
+        "analysis": " @Autowired private Customer Service customerService;  @Autowired private Staff Service staffService"
+    },
+    {
+        "chunk_index": 68,
+        "analysis": "Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  Exception  .assignAll() .and() .exceptionHandling().accessDeniedPage(\"/accessDenied\") .and() .formLogin().successHandler(success)"
+    },
+    {
+        "chunk_index": 69,
+        "analysis": "# File: MvcConfig.java package com.spart"
+    },
+    {
+        "chunk_index": 70,
+        "analysis": "javax.persistence.Column; import j"
+    },
+    {
+        "chunk_index": 71,
+        "analysis": "# File: UserDetailsServiceImpl.java package com.sparta.engineering72.sakilaproject.securingweb; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Staff; import com.sparta.engineering72.sakilaproject.respositories.CustomerRepository; import com.sparta.engineering72.sakilaproject.respositories.CustomerRepository; import org.springframework.beans.factory.annotation.Autowired; import org.springframework.security.core.userdetails.User; import org.springframework.securi # File: UserDetails ServiceImpl.java package com.sparta.engineering72.sakilaproject.securingweb; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.respositories.CustomerRepository; import org.springframework.beans.factory.annotation.Autowired; import org.springframework.security.core.userdetails.User; import org.springframework.securi # File: UserDetailsServiceImpl.java package com.sparta.engineering72.sakilaproject.securingweb; import com.sparta.engineering72.sakilaproject.entities.CustomerRepository; import org.springframework.beans.factory.annotation.Autowired; import org.springframework.security.core.userdetails.User; import org.springframework.securi # File: UserDetailsServiceImpl.java package com.sparta.engineering72.sakilaproject.securingweb; import com.sparta.engineering72.sakilaproject.respositories.CustomerRepository;"
+    },
+    {
+        "chunk_index": 72,
+        "analysis": "ty.core.userdetails.UserDetails; import org.springframework.security.core.userdetails.UserDetailsService; import org.springframework.security.core.userdetails.UsernameNotFoundException; import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder; import org.springframework.stereotype.Service; @Service public class UserDetailsServiceImpl implements UserDetailsService  @Autowired CustomerRepository customerRepository; @Autowired StaffRepository staffRepository; @Override public UserDetails load UsernameNotFoundException  Customer customer = customerRepository.getCustomerByEmail(anyUsername); Staff staff = staffRepository.getStaffByUsername(anyUsername); User.UserBuilder builder; if (customer == null && staff == null)  throw new UsernameNotFoundException(\"Could not find user\");  else  builder = User.withUsername(anyUsername); if (customer == null && staff == null)  throw new UsernameNotFoundException(\"Could not find user\");  else  builder = User.withUsername(anyUsername); if (customer == null && staff == null)  throw new UsernameNotFoundException(\"Could not find user\");  else  builder = User.withUsername(anyUsername); if (customer == null && staff == null)  throw new UsernameNotFoundException(\"Could not find user\");  else  builder = User.withUsername(anyUsername); if (customer == null && staff == null)  throw new UsernameNotFoundException(\"Could not find user\");"
+    },
+    {
+        "chunk_index": 73,
+        "analysis": "List                                                                                                                                                                                                                                                               "
+    },
+    {
+        "chunk_index": 74,
+        "analysis": "SELECT SELECT CustomerName FROM Customers (String firstName); SELECT SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String firstName); SELECT CustomerName FROM Customers (String first"
+    },
+    {
+        "chunk_index": 75,
+        "analysis": " # File: ActorRepository.java pack com.sparta.engineering72.sakilaproject.repositories; import com.sparta.engineering72.sakilaproject.entities.Category; import org.springframework.data.jpa.repository.JpaRepository; import java.util.List; public interface CategoryRepository extends JpaRepositoryCategory, Integer>  Category getCategoryByCategoryId(Integer id);  # File: ActorRepository.java pack com.sparta.engineering72.sakilaproject.repositories; import com.sparta.engineering72.sakilaproject.entities.Category; import java.util.List; public interface CategoryRepository extends JpaRepositoryCategory, Integer>  category getCategoryByCategoryId(Integer id);  # File: ActorRepository.java pack com.sparta.engineering72.sakilaproject.repositories; import com.sparta.engineering72.sakilaproject.entities.Category; import java.util.List; public interface CategoryRepository extends JpaRepositoryCategory, Integer>  category getCategoryByCategoryId(Integer id);  # File: ActorRepository.java pack com.sparta.engineering72.sakilaproject.repositories; import com.sparta.engineering72.sakilaproject.entities.Category; import java.util.List; public interface CategoryRepository extends JpaRepositoryCategory, Integer>  category getCategoryByCategoryId(Integer id);  # File: ActorRepository.java pack com.sparta.engineering72.sakilaproject.repositories; import java.util."
+    },
+    {
+        "chunk_index": 76,
+        "analysis": "com.sparta.engineering72.sakilaproject.entities.Actor; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.FilmActor; import org.springframework.data.jpa.repository.Query; import java.util.List; public interface ActorRepository extends JpaRepositoryActor, Integer> ListActor> findActorsByFirstNameAndLastName(String firstName, String lastName); ListActor> findActorsByFirstName(String lastName); ListActor> findActorsByLastName(String lastName); Actor getActorByActorId(Integer id);  # File: FilmRepository.java package com.sparta.engineering72.sakilaproject.repositories; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Film; import com.sparta.engineering72.sakilaproject.entities.FilmActor; import org.springframework.data.jpa.repository.Query; import java.util.List; public interface ActorRepository extends JpaRepositoryActor, In"
+    },
+    {
+        "chunk_index": 77,
+        "analysis": "SELECT count(*) FROM actor a INNER JOIN film_actor f ON a.actor_id = fa.actor_id WHERE a.actor_id = :actor_id"
+    },
+    {
+        "chunk_index": 78,
+        "analysis": "# File: InventoryRepository.java package com.sparta.engineering72.sakilaproject.respositories; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Customer; import com.sparta.engineering72.sakilaproject.entities.Inventory; import com.sparta.engineering72.sak"
+    },
+    {
+        "chunk_index": 79,
+        "analysis": " # File: MavenWrapperDownloader.java /* * Copyright 2007-present the original author or authors. *"
+    },
+    {
+        "chunk_index": 80,
+        "analysis": "                                                                                                                                                                                                                                                               "
+    },
+    {
+        "chunk_index": 81,
+        "analysis": "/** * Path to the maven-wrapper.properties file, which might contain a downloadUrl property to * use instead of the default one. */ private static final String MAVEN_WRAPPER_PROPERTIES_PATH = \".mvn/wrapper/maven-wrapper.properties\"; /** * Path where the maven-wrapper.jar will be saved to. */ private static final String MAVEN_WRAPPER_PROPERTIES_PATH = \".mvn/wrapper/maven-wrapper.jar\"; /** * Name of the property which should be used to override the default download URL for the wrapper. */ private static final String PROPERTY_NAME_WRAPPER_URL = \"wrapperUrl\"; public static void main()  System.out.println(\"- Downloader started\"); File baseDirectory = new File(args[0]); System.out.println(\"- Using base directory: \" + baseDirectory.getAbsolutePath()); if the maven-wrapper.properties exists, read it an ans = \"ans = \"ans = \"ans = \"ans = \")."
+    },
+    {
+        "chunk_index": 82,
+        "analysis": "d check if it contains a custom wrapperUrl parameter. File mavenWrapperPropertyFile = new File(baseDirectory, MAVEN_WRAPPER_PROPERTIES_PATH); String url = DEFAULT_DOWNLOAD_URL; if (mavenWrapperPropertyFile.exists())  FileInputStream mavenWrapperPropertyFileInputStream = null; try  mavenWrapperPropertyFileInputStream = new FileInputStream(mavenWrapperPropertyFile); Properties mavenWrapperProperties = new Properties(); mavenWrapperProperties.load(mavenWrapperPropertyFileInputStream); url = mavenWrapperProperties.getProperty(PROPERTY_NAME_WRAPPER_URL, url);  catch (IOException e)  System.out.println(\"- ERROR loading '\" + MAVEN_WRAPPER_PROPERTIES_PATH + \"'\");  finally  try  if (mavenWrapperPropertyFileInputStream != null)  mavenWrapperPropertyFileInputStream.clos"
+    },
+    {
+        "chunk_index": 83,
+        "analysis": "e();   catch (IOException e)   System.out.println(\"- Downloading from: \" + url); File outputFile = new File(baseDirectory.getAbsolutePath(), MAVEN_WRAPPER_JAR_PATH); if (!outputFile.getParentFile().exists())  if (!outputFile.getParentFile().mkdirs())  System.out.println( \"- ERROR creating output directory '\" + outputFile.getParentFile().getAbsolutePath() + \"'\");   System.out.println(\"- Downloading to: \" + outputFile.getAbsolutePath()); try  downloadFileFromURL(url, outputFile); System.out.println(\"Done\"); System.exit(0);  catch (Throwable e)  System.out.println(\"- Error downloading\"); e.printStackTrace(); System.exit(1);   private static void downloadFileFrom"
+    },
+    {
+        "chunk_index": 84,
+        "analysis": "URL = URL(String urlString, File destination) Exception  if (System.getenv(\"MVNW_USERNAME\") != null && System.getenv(\"MVNW_PASSWORD\") != null)  String username = System.getenv(\"MVNW_USERNAME\"); char[] password = System.getenv(\"MVNW_PASSWORD\").toCharArray(); Authenticator.setDefault(new Authenticator())  @Override protected PasswordAuthentication(username, password);  );  URL website = new URL(urlString); ReadableByteChannel rbc; rbc = Channels.newChannel(website.openStream()); FileOutputStream fos = new FileOutputStream(destination); fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE); fos.close(); rbc.close();  "
+    }
+]
